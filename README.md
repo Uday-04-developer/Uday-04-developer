@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Digital Universe
+#                                                                   🌟 Welcome to My Digital Universe
 
 <div align="center">
   
@@ -18,11 +18,11 @@
   
   ```javascript
   const developer = {
-    name: "Your Name",
+    name: "Uday Kelodiya",
     role: "Full Stack Magician",
-    languages: ["JavaScript", "Python", "Go", "Rust"],
+    languages: [" HTML", "CSS", "JS", "C++"],
     passion: "Building things that matter",
-    currentlyLearning: "AI & Machine Learning",
+    currentlyLearning: " Full Stack Development",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
   };
   ```
@@ -35,11 +35,11 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🌱 **Currently Growing:** Deep diving into AI/ML and cloud architecture  
+🌱 **Currently Growing:** Deep diving into Full Stack and DSA  
 💡 **Always Curious:** About emerging technologies and best practices  
 🎯 **Mission:** Creating impactful solutions that solve real problems  
 🔮 **Vision:** Building a more connected and automated world  
-🎪 **Fun Mode:** When not coding, you'll find me exploring new places or gaming
+🎪 **Fun Mode:** When not coding, you'll find me exploring new places or walking with friend
 
 <br/>
 
@@ -149,10 +149,10 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-kelodiya)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/UdayKelodiya))
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykelodiya@gmail.com)
 
 </div>
 
