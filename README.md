@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20Artist%20%F0%9F%8E%A8&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uday%20Kelodiya%20%F0%9F%8E%A8&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
 <div align="center">
