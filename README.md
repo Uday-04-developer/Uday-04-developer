@@ -12,7 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uday%20Kelodiya%20%F0%9F%8E%A8&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
-<div align="center">
+<div align="left">
   
   ### 🚀 Turning Coffee into Code Since Forever ☕
   
