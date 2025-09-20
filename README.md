@@ -13,7 +13,7 @@
 **-Open to Collaborate On:** Full stack projects, open-source contributions & hackathons  
 **-Technical Expertise:** React, Node.js, MongoDB, SQL, Java <br>
 **📫 Reach Me At:** [udaykelodiya@gmail.com](mailto:udaykelodiya@gmail.com)  
-**💼 Connect on LinkedIn:** [Aaryan Singh Rawat](https://www.linkedin.com/in/udaykelodiya/)  
+**💼 Connect on LinkedIn:** [Uday Kelodiya](https://www.linkedin.com/in/udaykelodiya/)  
 <br>
 **⚡ Fun Fact:** I enjoy building intuitive interfaces just as much as organizing community & club events.  
 
