@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Uday Kelodiya</h1>
+Aa<h1 align="center">Hi there 👋, I'm Uday Kelodiya</h1>
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
 ---
@@ -94,8 +94,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&count_private=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react&hide=python,c,cpp,shell,php,ruby,typescript" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uday-04-developer&show_icons=true&count_private=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-04-developer&layout=compact&theme=react&hide=python,c,cpp,shell,php,ruby,typescript" height="160"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/udaykelodiya" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-aaryansrawat18-blue.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Username Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-uday-04-developer-blue.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Username Badge"/>
   </a>
 </p>
 
