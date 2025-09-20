@@ -1,197 +1,134 @@
-#                                                                   🌟 Welcome to My Digital Universe
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+a+Developer+%F0%9F%91%8B;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing;Welcome+to+My+Code+Journey!)
-  
-</div>
+<h1 align="center">Hi there 👋, I'm Uday Kelodiya</h1>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## 👨‍💻 About Me  
+
+**🎓 B.Tech CSE Student | VIT Bhopal (2022–2026)**  
+
+**- Currently Working On:** Full Stack Web Apps using the **MERN Stack** & **GenAI** <br>
+**-Open to Collaborate On:** Full stack projects, open-source contributions & hackathons  
+**-Technical Expertise:** React, Node.js, MongoDB, SQL, Java <br>
+**📫 Reach Me At:** [udaykelodiya@gmail.com](mailto:udaykelodiya@gmail.com)  
+**💼 Connect on LinkedIn:** [Aaryan Singh Rawat](https://www.linkedin.com/in/udaykelodiya/)  
+<br>
+**⚡ Fun Fact:** I enjoy building intuitive interfaces just as much as organizing community & club events.  
+
+
+
+### 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /><br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" /><br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /><br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uday%20Kelodiya%20%F0%9F%8E%A8&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&count_private=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react&hide=python,c,cpp,shell,php,ruby,typescript" height="160"/>
 </p>
 
-<div align="left">
-  
-  ### 🚀 Turning Coffee into Code Since Forever ☕
-  
-  ```javascript
-  const developer = {
-    name: "Uday Kelodiya",
-    role: "Full Stack Magician",
-    languages: [" HTML", "CSS", "JS", "C++"],
-    passion: "Building things that matter",
-    currentlyLearning: " Full Stack Development",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-  };
-  ```
-  
-</div>
+---
+
+## 🧠 LeetCode Stats – Uday Kelodiya
+
+
+
+<p align="center">
+  <a href="https://leetcode.com/udaykelodiya" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-aaryansrawat18-blue.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Username Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=uday_04&theme=dark" alt="LeetCode Stats Card" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-150-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy Badge" />
+  <img src="https://img.shields.io/badge/Medium-100-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Medium Badge" />
+  <img src="https://img.shields.io/badge/Hard-50-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Badge" />
+</p>
+
+
 
 ---
 
-## 🎭 About Me in Binary (Just Kidding!)
+### 🤝 Connect With Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🌱 **Currently Growing:** Deep diving into Full Stack and DSA  
-💡 **Always Curious:** About emerging technologies and best practices  
-🎯 **Mission:** Creating impactful solutions that solve real problems  
-🔮 **Vision:** Building a more connected and automated world  
-🎪 **Fun Mode:** When not coding, you'll find me exploring new places or walking with friend
-
-<br/>
-
----
-
-## 🛠️ My Arsenal of Tools
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&column=7"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight)](https://github.com/YourUsername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight)](https://github.com/YourUsername/project2)
-
-</div>
-
----
-
-## 🎯 Current Goals & Learning Path
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🚀 Current Focus] --> B[AI/ML Engineering]
-    A --> C[Cloud Architecture]
-    A --> D[System Design]
-    
-    B --> E[TensorFlow & PyTorch]
-    B --> F[MLOps & Model Deployment]
-    
-    C --> G[Microservices]
-    C --> H[Serverless Computing]
-    
-    D --> I[Scalable Systems]
-    D --> J[Database Optimization]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#f9ca24
-```
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-kelodiya)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/UdayKelodiya))
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykelodiya@gmail.com)
-
-</div>
-
----
-
-## 💭 Random Dev Thoughts
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/yourusername)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 🚀 Thanks for stopping by! Let's build something amazing together!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=brightgreen)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%9A%80;Let's+build+the+future+together!;Thanks+for+visiting!+%E2%AD%90"/>
-</div>
+<a href="https://www.linkedin.com/in/udaykeloiya/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:udaykelodiya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
