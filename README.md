@@ -1,4 +1,4 @@
-Aa<h1 align="center">Hi there 👋, I'm Uday Kelodiya</h1>
+<h1 align="center">Hi there 👋, I'm Uday Kelodiya</h1>
 <h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
 ---
